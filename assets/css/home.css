@@ -122,6 +122,11 @@ html[data-theme="dark"] {
   box-shadow: var(--twitter);
 }
 
+.social-icon.website:after {
+  background-color: #ffa500;
+  box-shadow: var(--twitter);
+}
+
 .social-icon.instagram:after {
   background-color: #f21d92;
   box-shadow: var(--twitter);
